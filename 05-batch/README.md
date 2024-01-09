@@ -1,12 +1,5 @@
-## Week 5: Batch Processing
 
-### 5.1 Introduction
-
-* :movie_camera: 5.1.1 [Introduction to Batch Processing](https://youtu.be/dcHe5Fl3MF8?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
-* :movie_camera: 5.1.2 [Introduction to Spark](https://youtu.be/FhaqbEOuQ8U?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
-
-
-### 5.2 Installation
+### 5.1 Installation
 
 Follow [these intructions](setup/) to install Spark:
 
