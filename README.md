@@ -34,8 +34,6 @@ Syllabus
 * Workflow orchestration with Mage
 * Homework
 
-### [Workshop 1: Data Ingestion](cohorts/2024/workshops/dlt.md)
-
 ### [Module 3: Data Warehouse](03-data-warehouse/)
 
 * Data Warehouse
@@ -74,22 +72,3 @@ Syllabus
 * Kafka Connect and KSQL
 
 
-
-<p align="center">
-  <a href="https://mage.ai/">
-    <img height="120" src="images/mage.svg">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://dlthub.com/">
-    <img height="90" src="images/dlthub.png">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://risingwave.com/">
-    <img height="90" src="images/rising-wave.png">
-  </a>
-</p>
